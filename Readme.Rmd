@@ -6,6 +6,7 @@ output: html_document
 ---
 **Mtcars Dataset Lookup and Visualization**
 
+The slidify version is on the website: <http://bubblesheep.github.io/shinyapp1/#1>
 
 **Introduction:**
 
